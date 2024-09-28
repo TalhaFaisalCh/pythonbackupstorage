@@ -1,0 +1,3 @@
+list = ['bob', 'class', 'talha']
+
+print(list[0][1])
